@@ -195,3 +195,4 @@ Let's return our mind back to exercise #03 and change our SQL statement to retur
 | Anna | cheese pizza | Pizza Hut |
 | ... | ... | ... |
 
+[Вернуться в README.md](../README.md)

@@ -28,7 +28,6 @@
 | ... | ... | 
 
 
-## Chapter V
 ## Exercise 01 - Let’s see real names
 
 | Exercise 01: Let’s see real names|                                                                                                                          |
@@ -47,8 +46,6 @@
 | ... | ... | 
 
 
-
-## Chapter VI
 ## Exercise 02 - Restaurants statistics
 
 | Exercise 02: Restaurants statistics|                                                                                                                          |
@@ -67,7 +64,6 @@
 | Dominos | 7 | visit |
 | ... | ... | ... |
 
-## Chapter VII
 ## Exercise 03 - Restaurants statistics #2
 
 | Exercise 03: Restaurants statistics #2 |                                                                                                                          |
@@ -92,7 +88,6 @@
 | ... | ... | 
 
 
-## Chapter VIII
 ## Exercise 04 - Clause for groups
 
 
@@ -113,7 +108,6 @@
 
 
 
-## Chapter IX
 ## Exercise 05 - Person's uniqueness
 
 
@@ -134,7 +128,6 @@
 | Anna | 
 | ... | 
 
-## Chapter X
 ## Exercise 06 - Restaurant metrics
 
 
@@ -155,7 +148,6 @@
 | ... | ... | ... | ... | ... |
 
 
-## Chapter XI
 ## Exercise 07 - Average global rating
 
 
@@ -169,7 +161,6 @@
 Пожалуйста, напишите инструкцию SQL, которая возвращает общий средний рейтинг (имя выходного атрибута - global_rating) для всех ресторанов. Округлите ваш средний рейтинг до 4 чисел с плавающей запятой.
 
 
-## Chapter XII
 ## Exercise 08 - Find pizzeria’s restaurant locations
 
 
@@ -189,7 +180,6 @@
 | ... | ... | ... | 
 
 
-## Chapter XIII
 ## Exercise 09 - Explicit type transformation
 
 
